@@ -1,3 +1,3 @@
 # MIT-AOE-
-induction proggramme
+induction proggramme,
 Introduction to GitHub
